@@ -1,0 +1,9 @@
+para compilar, entre no diretorio da pasta Aula2 pelo cmd.
+
+depois execute o comando 
+    javac ./exercicio2/*.java
+para compilar
+
+apos isso execute 
+    java ./exercicio2/Main.java
+para rodar o programa

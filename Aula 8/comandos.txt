@@ -1,0 +1,9 @@
+para compilar, entre no diretorio da pasta Aula 8 pelo cmd.
+
+depois execute o comando 
+    javac ./exercicio/*.java
+para compilar
+
+apos isso, execute 
+    java ./exercicio/Main.java
+para rodar o programa
